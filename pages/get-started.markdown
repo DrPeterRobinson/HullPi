@@ -50,7 +50,7 @@ The kit doesn’t contain a keyboard or mouse, so you’ll need to get these.  A
 
 That’s all there is to it.  When you switch it on, lights will flash on the pi, and your screen should soon start showing something like this:
 
-![alt text](../images/pi-splash.png "Raspberry Pi splash screen")
+![alt text](../images/pi-splash.PNG "Raspberry Pi splash screen")
 
 If it doesn’t, you might need to manually set your TV to use the right HDMI input.  
 
