@@ -5,7 +5,7 @@
 layout: home
 title: The Raspberry Pi project
 ---
-This site is here to support peole who have received a Raspberry Pi kit from the University of Hull.  If you're not sure where to begin, then the [Getting started](pages/get-started.html) page is a good place to go.  If you are ready for more, follow the tutorials and posts in the section below.
+This site is here to support peole who have received a Raspberry Pi kit from the University of Hull.  If you're not sure where to begin, then the [Getting started](start-here) page is a good place to go.  If you are ready for more, follow the tutorials and posts in the section below.
 
 ### Support
 
