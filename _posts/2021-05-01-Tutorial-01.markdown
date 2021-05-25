@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pi tutorial 1"
+date:   2021-05-01 00:00:01 +0100
+categories: tutorial
+---
+
+## Here we go!
+
+Here's the first in our series of tutorials for the Raspberry Pi.  Over the next few weeks, we'll gently introduce you to programming.  If you follow the tutorials through to the end, you'll wind up with a playable version of the old arcade classic [Asteroids](https://en.wikipedia.org/wiki/Asteroids_(video_game)).
+
+Ready to get started?  Here's the first tutorial: [Tutorial 01](/pdfs/pi-sheet-01.pdf)
+

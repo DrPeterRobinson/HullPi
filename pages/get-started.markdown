@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Start Here
+permalink: /start-here/
 ---
 So you've received your Raspberry Pi kit.  How do you get started?
 

@@ -1,5 +1,37 @@
 title: HullPi
+author:
+  name: Peter Robinson
+  email: P.A.Robinson@hull.ac.uk
+description: > # this means to ignore newlines until "show_excerpts:"
+  This is the support site for the Raspberry Pi project run by the 
+  Computer Science and Technology departmetn at the University of Hull.
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+show_excerpts: false # set to true to show excerpts on the homepage
+minima:
+  date_format: "%b %-d, %Y"
+  social_links:
+    twitter: HullCompSci
+    github: DrPeterRobinson
+    # devto: jekyll
+    # dribbble: jekyll
+    facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll  
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - pages/get-started.markdown 
+ - about.markdown

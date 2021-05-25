@@ -3,46 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: The Raspberry Pi project
 ---
+This site is here to support peole who have received a Raspberry Pi kit from the University of Hull.  If you're not sure where to begin, then the [Getting started](pages/get-started.html) page is a good place to go.  If you are ready for more, follow the tutorials and posts in the section below.
 
-## Welcome to GitHub Pages
+### Support
 
-[Get started](pages/get-started.html)
+Having trouble with your Pi or our tutorials?  Email our [Pi Guru](mailto://Ashley.Williamson@hull.ac.uk) and we’ll help you sort it out.
 
-You can use the [editor on GitHub](https://github.com/DrPeterRobinson/HullPi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-[Get started](/pages/get_started.html)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DrPeterRobinson/HullPi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Want to know more about [Computer Science at Hull](https://www/hull.ac.uk)?
