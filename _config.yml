@@ -1,4 +1,5 @@
-theme: jekyll-theme-slate
 title: HullPi
+# Build settings
+theme: minima
 plugins:
   - jekyll-feed
